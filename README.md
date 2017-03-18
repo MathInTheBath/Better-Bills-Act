@@ -21,7 +21,7 @@ The following lists a number of things that the current voting process does effi
 
 1. Speed. At moments of high relative activity, a bill can be passed in a few hours given the signatures. Hence, popular, necessary, and reactive bills can become law very quickly.
 2. Requires a minimum amount of active citizenry participation. Because the bill requires 25% of the most recent census count to sign, it’s never the case that an extremely small minority can propose a bill, sign it, and then close it, with 100% approval rating of those who voted. 
-Checks and balances between the Legislature and the ECs.
+3. Checks and balances between the Legislature and the ECs. This is due to the EC's ability to veto, and the Legislature's ability to override the veto.
 
 ### Breakdown of New Voting Process
 
