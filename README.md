@@ -10,17 +10,17 @@ According to the Aquilan Constitution, Article II, Sections 2 and 4, any member 
 
 ### Issues with Existing Law
 
-Indefinite voting period length. How does the Legislature know when a bill is rejected? If the bill does not specify an amount of time to be considered, it will be considered indefinitely. Potentially, this could mean a bill from two years ago could be signed into law with a random signature. This problem of vagueness exists for voting during the initial proposal, the voting of the ECs, and the voting of the override.
-Arbitrary hurdle for bills to pass. Because only 25% of the Legislature need to sign the bill for it to be considered by the EC, a bill that is opposed by a majority of the citizenry could easily pass given an active minority. This is further exacerbated if ECs wish to pass a bill that citizens don’t want. Since ECs are part of the Legislature, they can propose a bill, participate in the signing of it, and allow a small minority to push a bill through. Many see this as potentially too much power for the ECs.
-No recourse for opposition to the bill. Since any bill simply needs to reach 25% approval, those who oppose it can only hope that no one signs the bill for potentially forever. 
-Not adjusting for player activity. While many players answer the census, some of them are still not very active on the server, let alone in Aquilan politics. Depending on the proportion of active players at the moment the bill is presented, 25% may be an extremely easy bar to jump, or an impossible one.
+1. Indefinite voting period length. How does the Legislature know when a bill is rejected? If the bill does not specify an amount of time to be considered, it will be considered indefinitely. Potentially, this could mean a bill from two years ago could be signed into law with a random signature. This problem of vagueness exists for voting during the initial proposal, the voting of the ECs, and the voting of the override.
+2. Arbitrary hurdle for bills to pass. Because only 25% of the Legislature need to sign the bill for it to be considered by the EC, a bill that is opposed by a majority of the citizenry could easily pass given an active minority. This is further exacerbated if ECs wish to pass a bill that citizens don’t want. Since ECs are part of the Legislature, they can propose a bill, participate in the signing of it, and allow a small minority to push a bill through. Many see this as potentially too much power for the ECs.
+3. No recourse for opposition to the bill. Since any bill simply needs to reach 25% approval, those who oppose it can only hope that no one signs the bill for potentially forever. 
+4. Not adjusting for player activity. While many players answer the census, some of them are still not very active on the server, let alone in Aquilan politics. Depending on the proportion of active players at the moment the bill is presented, 25% may be an extremely easy bar to jump, or an impossible one.
 
 ### Advantages of Existing Law
 
 The following lists a number of things that the current voting process does efficiently, and that should be preserved in when considering changing it.
 
-Speed. At moments of high relative activity, a bill can be passed in a few hours given the signatures. Hence, popular, necessary, and reactive bills can become law very quickly.
-Requires a minimum amount of active citizenry participation. Because the bill requires 25% of the most recent census count to sign, it’s never the case that an extremely small minority can propose a bill, sign it, and then close it, with 100% approval rating of those who voted. 
+1. Speed. At moments of high relative activity, a bill can be passed in a few hours given the signatures. Hence, popular, necessary, and reactive bills can become law very quickly.
+2. Requires a minimum amount of active citizenry participation. Because the bill requires 25% of the most recent census count to sign, it’s never the case that an extremely small minority can propose a bill, sign it, and then close it, with 100% approval rating of those who voted. 
 Checks and balances between the Legislature and the ECs.
 
 ### Breakdown of New Voting Process
