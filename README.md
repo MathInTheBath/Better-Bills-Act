@@ -17,7 +17,7 @@ According to the Aquilan Constitution, Article II, Sections 2 and 4, any member 
 
 ### Advantages of Existing Law
 
-The following lists a number of things that the current voting process does efficiently, and that should be preserved in when considering changing it.
+The following lists a number of things that the current voting process does efficiently, and that should be preserved when considering changing it.
 
 1. Speed. At moments of high relative activity, a bill can be passed in a few hours given the signatures. Hence, popular, necessary, and reactive bills can become law very quickly.
 2. Requires a minimum amount of active citizenry participation. Because the bill requires 25% of the most recent census count to sign, it’s never the case that an extremely small minority can propose a bill, sign it, and then close it, with 100% approval rating of those who voted. 
