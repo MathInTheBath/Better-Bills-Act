@@ -33,7 +33,7 @@ Before we move onto the details of the Executive Vote, let’s analyze the advan
 
 The Executive Vote is a phase starting immediately following the end of the Proposal Vote. The Executive Vote lasts an amount of days equal to half of the Proposal Period, rounded up to the closest whole day. The ECs can choose to sign the bill with their executive signatures. If two-thirds or more of the ECs sign the bill by the closing of the Executive Vote, the bill becomes law. Otherwise, the bill returns to the Legislature and the Override Vote begins. (If at any point during the Executive Vote, not enough ECs have signed the bill for the bill to become law, and the ECs unanimously agree that their votes are final, a bill can immediately move to the Override Vote instead of waiting for the Executive Vote to conclude normally.)
 
-The Override Vote acts the same way as the Proposal Vote, except it lasts for an amount of days equal to half of the Proposal Period, rounded up to the closest whole day. Instead of requiring more than 50% Yaes, it require more than two-thirds percent Yaes.
+The Override Vote acts the same way as the Proposal Vote, except it lasts for an amount of days equal to half of the Proposal Period, rounded up to the closest whole day. Instead of requiring more than 50% Yaes, it require more than two-thirds Yaes.
 
 ### The Amendment Itself
 *Changes to Article II, Section 4 - Legislative Process, Executive Veto*
